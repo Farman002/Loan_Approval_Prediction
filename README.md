@@ -1,22 +1,17 @@
-# 🏦 Loan Approval Prediction App
+# 🏦 Loan Approval Prediction using Naive Bayes
 
-This is a **Streamlit web application** that predicts if a loan will be approved based on user input. The prediction is made using a **Naive Bayes model** trained on historical data.
+# 📌 Project Overview
 
-![App Screenshot](screenshot.png)
+This project is a Loan Approval Prediction System built using a Naive Bayes Classifier. It analyzes applicant details to determine whether a loan application should be approved or rejected. The model achieves an impressive 92.92% accuracy in predictions.
 
----
+# 🎯 Features
 
-## 🚀 Features
-- User-friendly interface built with **Streamlit**.
-- Predicts loan approval based on:
-  - Gender
-  - Marital Status
-  - Dependents
-  - Education Level
-  - Applicant Income
-  - Coapplicant Income
-  - Loan Amount
-  - Credit History
-- Displays results instantly with a detailed message.
+- ✅ Loan Approval Prediction using Machine Learning
 
----
+- ✅ User-Friendly Web App with Streamlit
+
+- ✅ 82.92% Model Accuracy using Naive Bayes
+
+- ✅ Automated Feature Engineering & Preprocessing
+
+- ✅ Fast & Efficient Decision Making
